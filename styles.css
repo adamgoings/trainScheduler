@@ -1,0 +1,30 @@
+.jumbotron {
+  color: royalblue;
+  font-weight: bold;
+  text-align: center;
+  margin-top: 5%;
+  margin-bottom: 5%;
+}
+
+.table {
+  margin: 10px;
+  margin-bottom: 5%;
+  border-color: royalblue;
+  border-style: solid;
+  border-width: 1px;
+}
+
+form {
+  margin: 10px;
+  border-color: royalblue;
+  border-style: solid;
+  border-width: 1px;
+}
+
+.form-group {
+  margin: 10px;
+}
+
+.btn, tr {
+  margin: 10px;
+}
