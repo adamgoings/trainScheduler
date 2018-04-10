@@ -15,7 +15,6 @@ let newTrainName = "";
 let newDestination = "";
 let newFrequency = "";
 let newfirstArrival = "";
-// let newNextArrival = "";
 let currentTime = "";
 
 //clicking submit button to grab vals from the input fields
